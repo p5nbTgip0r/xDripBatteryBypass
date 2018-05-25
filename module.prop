@@ -1,0 +1,7 @@
+id=xDripBatteryBypass
+name=xDripBatteryBypass
+version=v1
+versionCode=1
+author=aaaa
+description=Disables battery optimization (doze) fully for xDrip to help with Bluetooth connections
+minMagisk=1500
